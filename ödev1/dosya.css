@@ -1,0 +1,15 @@
+a {
+    color: rgb(196, 196, 43);
+}
+
+.ortala-tablo { 
+    margin-right: auto;
+    margin-left: auto;
+}
+.ortala {
+    text-align: center;
+}
+.ort-nok 
+{
+ list-style-position: inside;
+}
